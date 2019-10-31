@@ -1,4 +1,4 @@
-# SOFTWARE .EXE FILES
+# SOFTWARES .EXE FILES
 ### 
 1. Chess Game .exe
 2. Clinic Management System Backend MSAccess .exe
